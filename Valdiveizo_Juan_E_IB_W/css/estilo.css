@@ -1,0 +1,17 @@
+ body{
+
+ background-image: url("../imagenes/hojas.jpg");
+   background-repeat: no-repeat;
+   background-size: 4000px 2000px ;
+
+ }
+
+.display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+.display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+.w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#0c4128!important}
+.w3-text-teal,.w3-hover-text-teal:hover{color:#009688!important}
+.w3-border-teal,.w3-hover-border-teal:hover{border-color:#0c4128!important}
+
+h4{
+  text-align: center;
+}
